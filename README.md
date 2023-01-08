@@ -30,7 +30,7 @@
 
 ![screenshot3](https://github.com/Grimmandrewj/Stocks_Analysis/blob/main/Screenshots/2020%20screenshot.jpg)
 
-* There was no consistent ticker that demonstrated the greatest value increase over the three years of provided data.  However, RKS twice demonstrated the greatest decrease in value (2018 and 2020), suggesting it was a poorly-performing at the time of this dataset.  
+* There was no consistent ticker that demonstrated the greatest value increase over the three years of provided data.  However, RKS twice demonstrated the greatest decrease in value (2018 and 2020), suggesting it was a poorly-performing ticker at the time of this dataset.  
 * QKN demonstrated the greatest total volume in 2018 and 2020, suggesting it was the ticker with the most liquidity at the time this dataset was recorded
 
 
